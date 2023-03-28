@@ -1,0 +1,1 @@
+Just hitting the ChatGPT API with Rust 
